@@ -1,4 +1,5 @@
 # Enterprise-network-simulation-with-cisco-packet-tracer
+<img width="612" height="387" alt="image" src="https://github.com/user-attachments/assets/2d2f2cb8-37be-4112-aa8d-5304bede555a" />
 
 ## Project
 This project is a high-fidelity simulation of a secure enterprise branch office network designed using Cisco Packet Tracer. The goal was to engineer a robust, scalable architecture that mimics how a local office connects to a cloud-based environment while maintaining strict security protocols.
@@ -20,7 +21,8 @@ This project is a high-fidelity simulation of a secure enterprise branch office 
 ### Security using extended ACLs
 - Developed and applied Access Control Lists to enforce a **"Least Privilege"** policy:
   - Admin → Allowed access to cloud resources  
-  - Staff → Restricted access  
+  - Staff → Restricted access (below screenshot) 
+<img width="426" height="189" alt="image" src="https://github.com/user-attachments/assets/2b6b2c14-b717-4d9a-ad88-df8b33bcc89e" />
 
 ## Network topology
 
